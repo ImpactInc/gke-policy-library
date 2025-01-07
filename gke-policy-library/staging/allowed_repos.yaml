@@ -34,9 +34,8 @@
     - docker.elastic.co/beats/elastic-agent
     - lacework/datacollector
     - docker.pkg.dev/fairwinds-ops/oss/
-    - selenium/node-chrome
     - quay.io/prometheus/
-    - selenium/hub
+    - selenium/
     - lacework/datacollector
     - docker.pkg.dev/fairwinds-ops/oss/
     - registry.k8s.io/kube-state-metrics/kube-state-metrics
